@@ -100,7 +100,7 @@ ecommerce-platform/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/aethershop-ecommerce.git
+git clone https://github.com/vinayaksharma264/aethershop-ecommerce.git
 cd aethershop-ecommerce
 ```
 
